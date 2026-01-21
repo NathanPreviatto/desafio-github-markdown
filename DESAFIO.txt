@@ -1,0 +1,15 @@
+Objetivos do desafio:
+1- Criar uma conta no GitHub
+2- Criar um repositório: Desafio-github-markdown
+	- Adicionar o readme.,de
+	- Utilize o GitHub.dev para editar seu projeto
+	- Lembre-se o repositório deve ser público
+
+3- Colaboração
+	Adicione um colaborador ao seu repositório
+	Realize alterações, commits, abra issue e pull requests
+
+4- Formatação com Markdown
+	- Edite o arquivo README.md
+	- Utilize a linguagem markdown para formatar o README.md
+
